@@ -10,7 +10,7 @@
     "test": "node --import @swc-node/register/esm-register --test 'src/**/*.spec.ts'"
   },
   "devDependencies": {
-    "typescript": "^5.5.2",
+    "typescript": "^5.5.4",
     "@swc/core": "^1.6.3",
     "@swc/cli": "^0.3.12",
     "@swc-node/register": "^1.9.2"
